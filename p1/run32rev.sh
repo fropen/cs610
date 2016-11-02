@@ -1,0 +1,9 @@
+./mergeSort 32 rev_sort32.txt
+./heapSort 32 rev_sort32.txt
+./quickSort 32 rev_sort32.txt
+./mergeSort 32 rev_sort32.txt
+./heapSort 32 rev_sort32.txt
+./quickSort 32 rev_sort32.txt
+./mergeSort 32 rev_sort32.txt
+./heapSort 32 rev_sort32.txt
+./quickSort 32 rev_sort32.txt

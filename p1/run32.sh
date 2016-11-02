@@ -1,0 +1,9 @@
+./mergeSort 32 rand32.txt
+./heapSort 32 rand32.txt
+./quickSort 32 rand32.txt
+./mergeSort 32 rand32.txt
+./heapSort 32 rand32.txt
+./quickSort 32 rand32.txt
+./mergeSort 32 rand32.txt
+./heapSort 32 rand32.txt
+./quickSort 32 rand32.txt

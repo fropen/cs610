@@ -1,0 +1,9 @@
+./heapSort 1024 rand1024.txt
+./mergeSort 1024 rand1024.txt
+./quickSort 1024 rand1024.txt
+./heapSort 1024 rand1024.txt
+./mergeSort 1024 rand1024.txt
+./quickSort 1024 rand1024.txt
+./heapSort 1024 rand1024.txt
+./mergeSort 1024 rand1024.txt
+./quickSort 1024 rand1024.txt
